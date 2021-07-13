@@ -1333,8 +1333,7 @@ align-items: center;
     background: white;
     color: black;
     font-size: 15px;
-    border-radius: 100px;
-    
+    border-radius: 100px;  
 }
 .COMPLE-12-3{
     color: red;
@@ -1511,9 +1510,9 @@ font-size: 30px;
     margin-top: 20px;
 }
 .COMPLETE-15{
-    font-size: 30px;
+    font-size: 15px;
     background: rgba(239, 35, 60, .95);
-    height: 800px;
+    height: 600px;
     justify-content: center;
     align-items: center;
     margin-top: 100px;
@@ -1529,6 +1528,10 @@ font-size: 30px;
     align-items: center;
     display: flex;
     margin-right: 30px;
+}
+.img8-1{
+    width: 600px;
+    margin-left: 30px;
 }
 .COMPLETE-15-2{
     justify-content: center;
@@ -1570,12 +1573,12 @@ input{
     align-items: center;
     color: rgba(239, 35, 60, .95);
     border: 1px solid rgba(239, 35, 60, .95);
-    width: 300px;
-    height: 90px;
+    width: 250px;
+    height: 80px;
     background: white;
     margin-top: 30px;
     display: flex;
-    font-size: 25px;
+    font-size: 20px;
 }
 .COMPLETE-17-1-2{
     font-size: 30px;
